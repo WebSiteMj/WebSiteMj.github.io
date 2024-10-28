@@ -1,1 +1,5 @@
-
+title: WebsiteMj
+#logo
+description: To automate File system and create the web products with postgres behind as databases 
+show_downloads: true
+theme: jekyll-theme-minimal
